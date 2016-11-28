@@ -1,0 +1,6 @@
+D:\C#\Projects\DatastructureAndAlgorithmPractice\DatastructureAndAlgorithmPractice\bin\Debug\DatastructureAndAlgorithmPractice.exe.config
+D:\C#\Projects\DatastructureAndAlgorithmPractice\DatastructureAndAlgorithmPractice\bin\Debug\DatastructureAndAlgorithmPractice.exe
+D:\C#\Projects\DatastructureAndAlgorithmPractice\DatastructureAndAlgorithmPractice\bin\Debug\DatastructureAndAlgorithmPractice.pdb
+D:\C#\Projects\DatastructureAndAlgorithmPractice\DatastructureAndAlgorithmPractice\obj\Debug\DatastructureAndAlgorithmPractice.csprojResolveAssemblyReference.cache
+D:\C#\Projects\DatastructureAndAlgorithmPractice\DatastructureAndAlgorithmPractice\obj\Debug\DatastructureAndAlgorithmPractice.exe
+D:\C#\Projects\DatastructureAndAlgorithmPractice\DatastructureAndAlgorithmPractice\obj\Debug\DatastructureAndAlgorithmPractice.pdb

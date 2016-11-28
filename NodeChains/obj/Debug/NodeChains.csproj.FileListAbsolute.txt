@@ -1,0 +1,5 @@
+D:\C#\Projects\DatastructureAndAlgorithmPractice\NodeChains\bin\Debug\NodeChains.exe.config
+D:\C#\Projects\DatastructureAndAlgorithmPractice\NodeChains\bin\Debug\NodeChains.exe
+D:\C#\Projects\DatastructureAndAlgorithmPractice\NodeChains\bin\Debug\NodeChains.pdb
+D:\C#\Projects\DatastructureAndAlgorithmPractice\NodeChains\obj\Debug\NodeChains.exe
+D:\C#\Projects\DatastructureAndAlgorithmPractice\NodeChains\obj\Debug\NodeChains.pdb
