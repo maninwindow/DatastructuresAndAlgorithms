@@ -4,3 +4,6 @@ D:\C#\Projects\DatastructureAndAlgorithmPractice\DatastructureAndAlgorithmPracti
 D:\C#\Projects\DatastructureAndAlgorithmPractice\DatastructureAndAlgorithmPractice\obj\Debug\DatastructureAndAlgorithmPractice.csprojResolveAssemblyReference.cache
 D:\C#\Projects\DatastructureAndAlgorithmPractice\DatastructureAndAlgorithmPractice\obj\Debug\DatastructureAndAlgorithmPractice.exe
 D:\C#\Projects\DatastructureAndAlgorithmPractice\DatastructureAndAlgorithmPractice\obj\Debug\DatastructureAndAlgorithmPractice.pdb
+D:\ASP.NET\git\DatastructuresAndAlgorithms\DatastructureAndAlgorithmPractice\bin\Debug\DatastructureAndAlgorithmPractice.exe.config
+D:\ASP.NET\git\DatastructuresAndAlgorithms\DatastructureAndAlgorithmPractice\obj\Debug\DatastructureAndAlgorithmPractice.exe
+D:\ASP.NET\git\DatastructuresAndAlgorithms\DatastructureAndAlgorithmPractice\obj\Debug\DatastructureAndAlgorithmPractice.pdb

@@ -12,7 +12,7 @@ namespace NodeChains
         public Node Next { get; set; }
     }
 
-    public class Program
+    public class NodeChains
     {
         public static void Main(string[] args)
         {
